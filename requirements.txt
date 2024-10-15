@@ -1,0 +1,14 @@
+altgraph==0.17.4
+audio_extract==0.7.0
+colorama==0.4.6
+future==1.0.0
+imageio-ffmpeg==0.4.8
+mutagen==1.46.0
+packaging==24.1
+pefile==2024.8.26
+pyee==12.0.0
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+pywin32-ctypes==0.2.3
+setuptools==75.1.0
+typing_extensions==4.12.2
